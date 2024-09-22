@@ -20,7 +20,7 @@ with st.form("Informativo", border=False):
     st.write("💲 Valor da Inscrição: 90,00 reais para 7km; 100,00 para 14km e 115,00 para 21km")
     st.write("Forma de Pagamento: ")
     st.write("  Pix kelioesteves@hotmail.com - Kélio Esteves Xavier - Mercado pago.")
-    st.write("📱 Mais informações: (69) 99925-9005
+    st.write("📱 Mais informações: (69) 99925-9005")
     st.caption("")
     st.write("🏆 Havará premiação de trofél e valores dinheiro aos atletas classificados do 1º ao 5º lugar para o percurso de 21km masculino e feminino geral, conforme segue abaixo:")
     st.write("  1° LUGAR R$ 600,00")
