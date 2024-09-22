@@ -15,7 +15,7 @@ with st.form("Informativo", border=False):
     st.markdown("##### Informativo da Corrida")
     st.write("📅 Dia 19 de janeiro de 2025")
     st.write("🏃🏻 Largada às 06hs 🕗")
-    #st.write("📍 Local da largada: Rua Alexandre Guimarães com José de Alencar - s/n, Bairro Areal")
+    st.write("📍 Local da largada: Rua Alexandre Guimarães com José de Alencar - s/n, Bairro Areal")
     st.caption("")
     st.write("💲 Valor da Inscrição: 90,00 reais para 7km; 100,00 para 14km e 115,00 para 21km")
     st.write("Forma de Pagamento: ")
