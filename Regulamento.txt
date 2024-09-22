@@ -30,7 +30,7 @@ deste Regulamento.
 Artigo 8º. As inscrições deverão ser realizadas pelo link de inscrição, plataforma de venda de
 ingressos/inscrições on-line.
 8.1 Contará apenas de um lote, com a inscrição pela internet através do site
-www.XXXXXXXXXXXXXXXXXXXX.com.br devendo ser levado no dia da retirada do kit ou no dia da prova 1 Kg de
+https://arealslope.streamlit.app/ devendo ser levado no dia da retirada do kit ou no dia da prova 1 Kg de
 alimento não perecível (menos sal e açúcar).
 *Não serão validados pedidos de inscrição enviados via Redes Sociais e/ou outro meio de
 comunicação que não seja pelo Link informado acima.
