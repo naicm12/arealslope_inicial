@@ -22,7 +22,7 @@ with st.form("Informativo", border=False):
     st.write("  Pix kelioesteves@hotmail.com - Kélio Esteves Xavier - Mercado pago.")
     st.write("📱 Mais informações: (69) 99925-9005")
     st.caption("")
-    st.write("🏆 Havará premiação de trofél e valores dinheiro aos atletas classificados do 1º ao 5º lugar para o percurso de 21km masculino e feminino geral, conforme segue abaixo:")
+    st.write("🏆 Havará premiação de trofél e valores em dinheiro aos atletas classificados do 1º ao 5º lugar para o percurso de 21km masculino e feminino geral, conforme segue abaixo:")
     st.write("  1° LUGAR R$ 600,00")
     st.write("  2° LUGAR R$ 400,00")
     st.write("  3° LUGAR R$ 300,00")
