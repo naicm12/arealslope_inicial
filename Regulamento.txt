@@ -18,19 +18,16 @@ Capítulo II - INSCRIÇÃO
 Artigo 7º. Poderá participar da corrida o(a) competidor(a), aqui denominado(a) atleta, que se inscrever, realizar a inscrição no prazo determinado e expressar concordância com as normas deste Regulamento.
 Artigo 8º. As inscrições deverão ser realizadas pelo link de inscrição, plataforma de venda de ingressos/inscrições on-line.
 8.1 Contará apenas de um lote, com a inscrição pela internet através do site https://arealslope.streamlit.app/ devendo ser levado no dia da retirada do kit ou no dia da prova 1 Kg de alimento não perecível (menos sal e açúcar).
-*Não serão validados pedidos de inscrição enviados via Redes Sociais e/ou outro meio de
-comunicação que não seja pelo Link informado acima.
+*Não serão validados pedidos de inscrição enviados via Redes Sociais e/ou outro meio de comunicação que não seja pelo Link informado acima.
 Artigo 9º. Os inscritos deverão no dia da retirada do kit levar 1 Kg de alimento não perecível (menos sal e açúcar) para doação.
 Artigo 10º. O Kit do atleta será composto por camiseta, número de peito, água, frutas e medalha, sendo os três últimos itens a serem retirados no dia da corrida.
 Artigo 11º. No ato da inscrição, ao concordar com o regulamento, o(a) atleta aceita todos os termos do regulamento e assume total responsabilidade por sua participação no evento.
 Artigo 12º. As inscrições serão encerradas até 50 dias antes da data da corrida, ou em data anterior a esta, caso seja atingido o limite técnico definido para esta corrida.
 Artigo 13º. A empresa organizadora poderá, a qualquer momento, suspender ou prorrogar prazos ou, ainda, elevar ou limitar o número de inscrições, em função de necessidades, disponibilidade técnica e/ou questões estruturais, sem aviso prévio.
-Artigo 14º. Os atletas são responsáveis pela veracidade das informações fornecidas no sistema on-line ou na ficha de inscrição. Os atletas concordam que o e-mail será o meio de comunicação utilizado pela empresa organizadora para repassar informações e atualizações
-referentes à corrida.
+Artigo 14º. Os atletas são responsáveis pela veracidade das informações fornecidas no sistema on-line ou na ficha de inscrição. Os atletas concordam que o e-mail será o meio de comunicação utilizado pela empresa organizadora para repassar informações e atualizações referentes à corrida.
 Artigo 15º. Serão disponibilizadas 600 inscrições para 1º CORRIDA AREAL SLOPE de acordo com a ordem de inscrição realizadas.
 Artigo 16º. A inscrição na corrida é pessoal e intransferível, não podendo qualquer atleta ser substituído por outra, em qualquer situação.
-16.1 O atleta que ceder seu número de peito para outra pessoa será responsável por qualquer acidente ou dano que esta venha a sofrer, isentando o atendimento e qualquer responsabilidade da empresa organizadora, seus patrocinadores, apoiadores e órgãos
-públicos.
+16.1 O atleta que ceder seu número de peito para outra pessoa será responsável por qualquer acidente ou dano que esta venha a sofrer, isentando o atendimento e qualquer responsabilidade da empresa organizadora, seus patrocinadores, apoiadores e órgãos públicos.
 Artigo 17º. De acordo com a determinação da Confederação Brasileira de Atletismo, a idade mínima para atletas se inscreverem e participarem de corridas de rua é de 16 (dezesseis) anos, com as seguintes restrições:
 I - Os atletas menores de 18 anos de idade NÃO poderão participar de corridas com percurso igual ou superior a 10 Km;
 II - A idade a ser considerada, obrigatoriamente, para os efeitos de inscrição é a que o atleta terá 19/01/25;
@@ -89,7 +86,8 @@ corrida.
 Artigo 39º. A 1° CORRIDA AREAL SLOPE contará com as categorias GERAL, masculino e feminino, e nas FAIXAS ETÁRIAS de idades: 
    Até 35 anos; 
    De 36 a 45 anos; 
-   De 46 a 55 anos; De 56 anos em diante.
+   De 46 a 55 anos; 
+   De 56 anos em diante.
 
 Artigo 40º. A idade considerada para classificação nas categorias de faixas etária será de acordo com o que o atleta tiver em 19 de janeiro de 2025. Todos os ATLETAS que tiverem seus nomes chamados para premiação deverão encaminhar-se imediatamente à área de premiação. Caso esse atleta não esteja presente será desclassificado e não terá direito a troféu e/ou qualquer outra premiação.
 Artigo 41º. Os resultados oficiais da 1ª CORRIDA AREAL SLOPE serão informados através do site oficial do evento no prazo de 48 horas após o término da corrida.
