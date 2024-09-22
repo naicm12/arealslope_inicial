@@ -35,7 +35,7 @@ with st.form("Informativo", border=False):
     st.caption("")
     st.write("INSCRIÇÕES:")
     st.write("✍️ Período de inscrição:")
-    st.write("  Início: 23 de setembro de 2024")
+    st.write("  Início: 22 de setembro de 2024")
     st.write("  Término: 30 de novembro de 2024 ou até o limite das vagas")
     st.write("A entrega dos kits será realizada do dia 14/01/2025, no seguinte endereço: Rua José de Alencar esquina com Alexandre Guimarães, s/n - Areal, horário: 10:00 às 19:00h")
     st.warning("ATENÇÃO",icon="⚠️")
