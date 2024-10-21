@@ -30,7 +30,7 @@ with st.form("Informativo", border=False):
     st.write("  5° LUGAR R$ 150,00")
     st.write(" Nas demais categorias por faixa etária do percurso de 21km haverá premiação somente de troféus do 1º ao 3º colocados")
     st.write(" No percurso de 14km haverá premiação de troféus do 1º ao 5º colocados nas categorias geral masculino e feminino e do 1º ao 3º colocados nas categorias por falxa etárias masculino e feminino.")        
-    st.write(" No percurso de 7km haverá premiação de trofeus do 1º ao 5º colocados apenaas pra categoria geral masculino e feminino.")
+    st.write(" No percurso de 7km haverá premiação de trofeus do 1º ao 3º nas categorias geral masculino e feminino e por falxa etárias masculino e feminino.")
     st.write("O Kit do atleta será composto por camiseta, número de peito, água, frutas e medalha, sendo os três últimos itens a serem retirados no dia da corrida")
     st.caption("")
     st.write("INSCRIÇÕES:")
