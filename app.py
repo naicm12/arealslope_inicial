@@ -3,7 +3,7 @@ from datetime import date
 
 #st.markdown("### 🔒Inscrições Encerradas")
 from PIL import Image
-img = Image.open('02.png')
+img = Image.open('02.jpg')
 st.image(img)
 st.markdown("### 1ª Corrida Areal Slope")
 st.write("")
