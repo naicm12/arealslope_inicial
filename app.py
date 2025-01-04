@@ -7,8 +7,7 @@ img = Image.open('02.jpg')
 st.image(img)
 st.markdown("### 1ª Corrida Areal Slope")
 st.write("")
-#st.markdown("### 🔒Inscrições Encerradas")
-st.warning("INSCRIÇÕES ENCERRADAS!)
+st.markdown("### 🔒Inscrições Encerradas")
 #st.link_button(label="Clique aqui para realizar sua inscrição",url="https://arealslope-inscricao-050956b44d4a.herokuapp.com/",type="primary")
 
 with st.form("Informativo", border=False):
